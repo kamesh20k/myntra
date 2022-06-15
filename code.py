@@ -4,7 +4,7 @@
 # for a different result
 num1 = 11
 num2 = 15
-num3 = 12
+num3 = 13
 
 # uncomment following lines to take three numbers from user
 #num1 = float(input("Enter first number: "))
